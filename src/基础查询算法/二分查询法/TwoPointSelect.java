@@ -4,6 +4,7 @@ public class TwoPointSelect {
     public static void twoPointSelect(int[] arr, int num) {
         /*二分排序法：
          *   针对有序数组 或 特殊情况数组
+         *   算法的思路：1.数据状况，2.问题标准
          * */
         int hight = arr.length;    // 记录最大数字的下标
         int low = 0;                // 记录最小数据的下标
