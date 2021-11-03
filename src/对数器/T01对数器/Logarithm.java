@@ -1,4 +1,4 @@
-package 对数器.对数器;
+package 对数器.T01对数器;
 
 public class Logarithm {
     public static int[] generateRandomArry(int maxSize, int maxValue) {

@@ -1,4 +1,4 @@
-package 基础查询算法.二分查询法;
+package 基础查询算法.T01二分查询法;
 
 public class TwoPointSelect {
     public static void twoPointSelect(int[] arr, int num) {
